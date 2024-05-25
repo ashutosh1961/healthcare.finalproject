@@ -8,7 +8,7 @@ Azure link: https://kind-bush-0b0b85310.5.azurestaticapps.net/
 # Project Overview
 Dentition is a comprehensive dental clinic management system designed to streamline the operations of dental practices. It offers advanced features for appointment scheduling, patient management, treatment records, and more, all through a user-friendly interface.
 
-## Industry Type ### Health
+## Industry Type  Health
 
 # Problem statement
 Dental clinics frequently struggle with improper patient record keeping and tracking, as well as managing and organizing schedules and treatment plans. The use of manual systems can result in mistakes, inefficiencies, and delays in the delivery of high-quality dental care. A mediocre patient experience may result from patients having trouble accessing their dental information or making appointments. These problems affect patient happiness and the overall condition of dental health in addition to impeding the efficiency of dental clinic operations. By addressing these issues with an innovative digital solution designed specifically for dental clinics, it will be possible to greatly increase productivity, accuracy, and patient involvement while also raising the standard of dental care provided.
