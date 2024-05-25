@@ -6,7 +6,7 @@ Azure link: https://kind-bush-0b0b85310.5.azurestaticapps.net/
 
 
 # Project Overview
-Dentition is a comprehensive dental clinic management system designed to streamline the operations of dental practices. It offers advanced features for appointment scheduling, patient management, treatment records, and more, all through a user-friendly interface.
+DigiDentrix is a comprehensive dental clinic management system designed to streamline the operations of dental practices. It offers advanced features for appointment scheduling, patient management, treatment records, and more, all through a user-friendly interface.
 
 ## Industry Type  Health
 
