@@ -30,7 +30,8 @@ By providing a customized digital solution that tackles the fundamental difficul
 Azure Static Web Apps is a cloud service provided by Microsoft Azure that enables developers to build and deploy full-stack web apps quickly and efficiently. It automatically builds and deploys static web apps to the cloud, integrating with popular frameworks and tools like GitHub and Azure DevOps for continuous integration and deployment. The service offers features such as global content distribution, custom domains, free SSL certificates, and seamless integration with APIs, making it an ideal solution for modern web applications.
 Azure Static Web Apps significantly streamlined the development and deployment process for my website. It provided an integrated environment that automatically built and deployed my app directly from the GitHub repository, ensuring smooth continuous integration and delivery. The service's global content distribution and free SSL certificates enhanced my website's performance and security. Additionally, the ease of managing custom domains and the seamless backend API integration allowed me to focus on development without worrying about infrastructure and deployment complexities.
 
-![image](https://github.com/ashutosh1961/healthcare.finalproject/assets/142258339/638a4f5f-b671-4b3f-96c3-ae34f6cca99a)
+![image](https://github.com/ashutosh1961/healthcare.finalproject/assets/142258339/9889f2dd-dd43-44c9-b7a5-0f64f66626a0)
+
 
 
 # Azure AI language service 
@@ -44,31 +45,43 @@ QnA Maker helped build the website chatbot by providing an easy-to-use platform 
 •	Test the knowledge base
 •	Deploy the knowledge base
 
-![image](https://github.com/ashutosh1961/healthcare.finalproject/assets/142258339/f2048a04-e272-45d2-b49e-8ec09f3ec7c7)
+![image](https://github.com/ashutosh1961/healthcare.finalproject/assets/142258339/2b71de78-2aba-450a-9438-86c3654fe6e4)
 
-![image](https://github.com/ashutosh1961/healthcare.finalproject/assets/142258339/a9f38198-8d53-41c3-8bd3-444ddff90c9e)
 
-![image](https://github.com/ashutosh1961/healthcare.finalproject/assets/142258339/71856da2-4b8c-4378-b029-5bb80a1c1cf6)
+![image](https://github.com/ashutosh1961/healthcare.finalproject/assets/142258339/937d0584-b53f-4a56-b120-04ffb6c49038)
+
+
+![image](https://github.com/ashutosh1961/healthcare.finalproject/assets/142258339/461747b9-224b-4771-974e-47575326f3cb)
+
 
 # Azure Virtual Machines
 Azure Virtual Machines (VMs) provide scalable computing resources on demand, enabling users to run applications and workloads in the cloud. They support a wide range of operating systems, including Windows and Linux, and allow for custom configurations to meet specific requirements. Azure VMs offer features like high availability, security, and disaster recovery. They integrate with other Azure services and tools, such as Azure Active Directory and Azure Backup, facilitating seamless management and scalability for enterprise-grade applications. This flexibility makes them ideal for development, testing, and production environments.
 
-Hosting my website on an Azure Virtual Machine (VM) provided a flexible and scalable environment tailored to my specific needs. By using an Azure VM, I was able to select the desired operating system, configure the server to meet the application's requirements, and manage resources efficiently. The VM's high availability and robust security features ensured reliable and secure hosting. Additionally, integrating with other Azure services, such as Azure DNS and Azure Backup, simplified management and enhanced the overall functionality of my website.
+Hosting my website on an Azure Virtual Machine (VM) provided a flexible and scalable environment tailored to my specific needs. By using an Azure VM, I was able to select the desired operating system, configure the server to meet the application's requirements and manage resources efficiently. The VM's high availability and robust security features ensured reliable and secure hosting. Additionally, integrating with other Azure services, such as Azure DNS and Azure Backup, simplified management and enhanced the overall functionality of my website.
 
-![image](https://github.com/ashutosh1961/healthcare.finalproject/assets/142258339/08cb1824-2f27-41a4-878f-d2faeca9e7f4)
+![image](https://github.com/ashutosh1961/healthcare.finalproject/assets/142258339/27ad3846-4563-4e99-bd86-afc0101e3972)
 
-![image](https://github.com/ashutosh1961/healthcare.finalproject/assets/142258339/142e494e-20c9-4556-ab1f-4c055d877113)
- 
+
+![image](https://github.com/ashutosh1961/healthcare.finalproject/assets/142258339/afee1e61-3520-4914-b16f-ca24078b83c2)
+
+
+
 # Visual Studio code
 Visual Studio Code (VS Code) is a versatile, open-source code editor developed by Microsoft, designed for multiple platforms including Windows, macOS, and Linux. It offers a robust set of features such as intelligent code completion, debugging, and version control integration, supporting a wide range of programming languages and frameworks. With its extensive marketplace of extensions, developers can customize and enhance their workflow. VS Code's lightweight yet powerful nature makes it a popular choice for developers, providing a seamless coding experience with features that support both local and cloud-based development.
 
 Visual Studio Code (VS Code) was instrumental in building my project by providing a streamlined and efficient development environment. Its robust features such as IntelliSense for code completion, integrated debugging, and Git version control made coding more efficient and less error-prone. The extensive marketplace of extensions allowed me to customize the editor to suit my specific needs, integrating tools for web development, Azure services, and more. This versatility and ease of use significantly accelerated the development process and improved overall productivity.
 
-![image](https://github.com/ashutosh1961/healthcare.finalproject/assets/142258339/eba4042c-4c45-490a-986c-257e50f32657)
+![image](https://github.com/ashutosh1961/healthcare.finalproject/assets/142258339/298067ec-5de6-45ec-ad9f-5338c0002ce9)
+
+
 
 # Git Commands used to deploy this app on Github
-git init
-git add .
-git commit -m "1st commit"
-git remote add origin https://github.com/ashutosh1961/healthcare.finalproject 
-git push -u origin master
+git init 
+
+<br>
+git add . <br>
+git commit -m "1st commit" <br>
+git remote add origin https://github.com/ashutosh1961/healthcare.finalproject  <br>
+git push -u origin master <br>
+
+
