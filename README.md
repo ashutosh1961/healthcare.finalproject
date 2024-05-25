@@ -7,21 +7,22 @@ Azure link: https://kind-bush-0b0b85310.5.azurestaticapps.net/
 
 # Project Overview
 Dentition is a comprehensive dental clinic management system designed to streamline the operations of dental practices. It offers advanced features for appointment scheduling, patient management, treatment records, and more, all through a user-friendly interface.
-Industry Type Health
-Problem statement
+
+## Industry Type ### Health
+
+# Problem statement
 Dental clinics frequently struggle with improper patient record keeping and tracking, as well as managing and organizing schedules and treatment plans. The use of manual systems can result in mistakes, inefficiencies, and delays in the delivery of high-quality dental care. A mediocre patient experience may result from patients having trouble accessing their dental information or making appointments. These problems affect patient happiness and the overall condition of dental health in addition to impeding the efficiency of dental clinic operations. By addressing these issues with an innovative digital solution designed specifically for dental clinics, it will be possible to greatly increase productivity, accuracy, and patient involvement while also raising the standard of dental care provided.
 
 # Project description 
 By providing a customized digital solution that tackles the fundamental difficulties of patient administration, appointment scheduling, and treatment planning, our initiative aims to revolutionize the operational environment of dental clinics. We identify the common inefficiencies that plague manual systems used in dental practices and offer comprehensive software for managing dental clinics as the solution. Several capabilities are included in this software suite, such as effortless appointment scheduling, tracking treatment plans, centralized patient record management, and smooth connection with invoicing and diagnostic tools. Our system aims to improve efficiency, accuracy, and patient happiness by digitizing and automating these crucial components of clinic operations. Our solution ensures that every feature directly addresses recognized pain spots within dental office workflows and provides clinics with the tools they need to improve the quality of treatment provided while streamlining operations. Each feature is explained in detail and is easy to understand.
 
 # Features
-•	Appointment Scheduling: Easy booking and management of appointments.
-•	Patient Management: Comprehensive patient records and history tracking.
-•	Treatment Records: Detailed records of treatments and procedures.
-•	Service Listings: Information on various dental services offered.
-•	Doctor Profiles: Information about the clinic's dental professionals.
-•	Blog Section: Latest updates and articles related to dental care.
-
+•	Appointment Scheduling: Easy booking and management of appointments. <br>
+•	Patient Management: Comprehensive patient records and history tracking.<br>
+•	Treatment Records: Detailed records of treatments and procedures.<br>
+•	Service Listings: Information on various dental services offered.<br>
+•	Doctor Profiles: Information about the clinic's dental professionals.<br>
+•	Blog Section: Latest updates and articles related to dental care.<br>
 
 # Technologies Used to create website
 
@@ -40,10 +41,10 @@ QnA Maker, part of Microsoft's Azure Cognitive Services, is a cloud-based tool d
 QnA Maker helped build the website chatbot by providing an easy-to-use platform to create a knowledge base from existing FAQs and documents. It allowed the chatbot to deliver accurate and relevant answers to user queries by leveraging natural language processing capabilities. This improved user interaction on the website, offering immediate support and information. Integrating QnA Maker streamlined the development process, enabling the chatbot to understand and respond to a wide range of questions effectively, enhancing the overall user experience.
 
 ## Steps involved in building a Question Answering knowledge base:
-•	Provision a Language resource
-•	Define questions and answers
-•	Test the knowledge base
-•	Deploy the knowledge base
+•	Provision a Language resource <br>
+•	Define questions and answers <br>
+•	Test the knowledge base <br>
+•	Deploy the knowledge base <br>
 
 ![image](https://github.com/ashutosh1961/healthcare.finalproject/assets/142258339/2b71de78-2aba-450a-9438-86c3654fe6e4)
 
@@ -76,9 +77,7 @@ Visual Studio Code (VS Code) was instrumental in building my project by providin
 
 
 # Git Commands used to deploy this app on Github
-git init 
-
-<br>
+git init <br>
 git add . <br>
 git commit -m "1st commit" <br>
 git remote add origin https://github.com/ashutosh1961/healthcare.finalproject  <br>
